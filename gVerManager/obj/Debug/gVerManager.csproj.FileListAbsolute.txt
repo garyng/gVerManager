@@ -1,0 +1,12 @@
+C:\Users\ZhongBo\AppData\Local\Temporary Projects\gVerManager\bin\Debug\gVerManager.exe.config
+C:\Users\ZhongBo\AppData\Local\Temporary Projects\gVerManager\obj\Debug\gVerManager.csprojResolveAssemblyReference.cache
+C:\Users\ZhongBo\AppData\Local\Temporary Projects\gVerManager\bin\Debug\gVerManager.exe
+C:\Users\ZhongBo\AppData\Local\Temporary Projects\gVerManager\bin\Debug\gVerManager.pdb
+C:\Users\ZhongBo\AppData\Local\Temporary Projects\gVerManager\obj\Debug\gVerManager.exe
+C:\Users\ZhongBo\AppData\Local\Temporary Projects\gVerManager\obj\Debug\gVerManager.pdb
+C:\Users\ZhongBo\Desktop\gVerManager\gVerManager\bin\Debug\gVerManager.exe.config
+C:\Users\ZhongBo\Desktop\gVerManager\gVerManager\obj\Debug\gVerManager.exe
+C:\Users\ZhongBo\Desktop\gVerManager\gVerManager\obj\Debug\gVerManager.pdb
+C:\Users\ZhongBo\Desktop\gVerManager\gVerManager\bin\Debug\gVerManager.exe
+C:\Users\ZhongBo\Desktop\gVerManager\gVerManager\bin\Debug\gVerManager.pdb
+C:\Users\ZhongBo\Desktop\gVerManager\gVerManager\obj\Debug\gVerManager.csprojResolveAssemblyReference.cache
