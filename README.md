@@ -41,6 +41,6 @@ Options
 Examples
 ============
 
-gVerManager.exe -f AssemblyInfo.cs"
+gVerManager.exe -f AssemblyInfo.cs
 
-gVerManager.exe -f AssemblyInfo.cs -rm 200 -bm 2000 -ri 1 -bi 0";
+gVerManager.exe -f AssemblyInfo.cs -rm 200 -bm 2000 -ri 1 -bi 0
