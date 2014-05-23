@@ -20,8 +20,8 @@ Version Format
 
 Major.Minor.Build.Revision
 
-Options:
-
+Options
+==========
 	-rm
 
 		Max revision build number (default : 100)
